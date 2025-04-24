@@ -1,8 +1,3 @@
----
-title: Untitled
-
----
-
 # Sprint Plan – BudgetBuddy
 
 ## Sprint 1: Project Setup
