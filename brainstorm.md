@@ -1,6 +1,12 @@
----
-title: Untitled
+## App Ideas List
+1. MatchTracker - allows users to track when their favorite teams play
+2. BudgetBuddy - allows users to keep track of their income and spending
+3. FitMeal - allows users to log meals, plan workout and get reminders
+4. MoodJournal - allows users to log their moods and thoughts throughout the day
 
+## Top Two Ideas
+1. BudgetBuddy
+2. MatchTracker
 ---
 
 # Brainstorming Notes - BudgetBuddy
