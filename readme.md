@@ -1,8 +1,3 @@
----
-title: Untitled
-
----
-
 # BudgetBuddy
 
 ## Table of Contents
