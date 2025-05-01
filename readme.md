@@ -28,11 +28,11 @@ BudgetBuddy is a lightweight mobile app to help users track their income and exp
 ### 1. User Stories
 
 #### Required Must-have
-- [ ] User can add an income or expense
-- [ ] View list of all transactions
-- [ ] Monthly budget summary with pie chart
-- [ ] Local data persistence (Core Data or SQLite)
-- [ ] Edit/Delete transaction
+- [x] User can add an income or expense
+- [x] View the list of all transactions
+- [x] Monthly budget summary with pie chart
+- [x] Local data persistence (Core Data or SQLite)
+- [x] Edit/Delete transaction
 
 #### Optional Nice-to-have
 - [ ] Daily reminder notification
@@ -46,7 +46,7 @@ BudgetBuddy is a lightweight mobile app to help users track their income and exp
   - Shortcut to add a new transaction
 
 - **Transaction List Screen**
-  - View list of transactions with filters
+  - View the list of transactions with filters
   - Edit/Delete each item
 
 - **Add/Edit Transaction Screen**
