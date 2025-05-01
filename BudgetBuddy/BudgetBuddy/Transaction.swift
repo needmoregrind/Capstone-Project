@@ -7,15 +7,15 @@
 
 import Foundation
 
-struct Transaction: Identifiable, Codable {
-    let id: UUID
-    var title: String
-    var amount: Double
-    var type: TransactionType
-    var category: String
-    var date: Date
+enum TransactionType: String, Codable {
+    case income, expense
 }
 
-enum TransactionType: String, Codable, CaseIterable {
-    case income, expense
+struct Transaction: Identifiable, Codable {
+    let id: UUID
+    let title: String
+    let amount: Double
+    let type: TransactionType
+    let category: String
+    let date: Date
 }
